@@ -18,6 +18,7 @@ This repository contains a LaTeX template for creating a professional résumé. 
 3. [Customization](#customization)
 4. [Compilation](#compilation)
 5. [Final Output](#final-output)
+6. [License](#license)
 
 ### Introduction
 This repository contains a LaTeX template for creating a professional résumé. The template is fully customizable and can be easily adapted to fit your personal needs. It is designed to be clean and easy to read, with a focus on showcasing your skills and experiences.
@@ -48,4 +49,5 @@ pdflatex [filename].tex
 ### Final Output
 ⚡ Will compile [filename].tex and The final output will be a PDF file named [filename].pdf that can be easily printed or emailed to potential employers.
 
-
+### License
+MIT licensed code for personal, open-source, or commercial use. Made available under the MIT license [MIT license](https://opensource.org/licenses/MIT). Attribution appreciated.
