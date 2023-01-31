@@ -50,4 +50,4 @@ pdflatex [filename].tex
 ⚡ Will compile [filename].tex and The final output will be a PDF file named [filename].pdf that can be easily printed or emailed to potential employers.
 
 ### License
-MIT licensed code for personal, open-source, or commercial use. Made available under the MIT license [MIT license](https://opensource.org/licenses/MIT). Attribution appreciated.
+MIT licensed code for personal, open-source, or commercial use. Made available under the [MIT license](https://opensource.org/licenses/MIT). Attribution appreciated.
