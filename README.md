@@ -57,6 +57,6 @@ MIT licensed code for personal, open-source, or commercial use. Made available u
 
 - [Awesome CV](https://github.com/posquit0/Awesome-CV)
 - [Software Developer Resume](https://github.com/sb2nov/resume)
-- [github-pages (Resume)](https://github.com/KnlnKS/KnlnKS)
+- [Github-pages (Resume)](https://github.com/KnlnKS/KnlnKS)
 
 
