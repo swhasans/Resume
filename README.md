@@ -5,9 +5,6 @@
 
 ➡️ [View PDF here](https://github.com/Deadrep/Resume/blob/9bb534f6e9ed4535b1442840a1b31441c970fe3f/Syed%20W.%20Hasan%20-%20Junior%20Software%20Dev.pdf)
 
-### Preview
-![Resume Screenshot](https://github.com/Deadrep/Resume/blob/9bb534f6e9ed4535b1442840a1b31441c970fe3f/Syed%20W.%20Hasan%20-%20Junior%20Software%20Dev.png)
-
 ## Résumé in LaTeX
 
 This repository contains a LaTeX template for creating a professional résumé. The template is fully customizable and can be easily adapted to fit your personal needs.
