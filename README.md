@@ -1,15 +1,11 @@
 
-### Syed W. Hasan's Résumé
+# Syed W. Hasan's Résumé
 
 **🔗 Live Preview PDF**: [Click Here!]()
 
-## Résumé in LaTeX
-
-This repository contains a LaTeX template for creating a professional résumé. The template is fully customizable and can be easily adapted to fit your personal needs.
-
 ## Table of Contents
 
-1. [Introduction](#introduction)
+1. [Résumé in LaTeX](#résumé-in-latex)
 2. [Requirements](#requirements)
 3. [Customization](#customization)
 4. [Compilation](#compilation)
@@ -17,7 +13,7 @@ This repository contains a LaTeX template for creating a professional résumé. 
 6. [License](#license)
 7. [Acknowledgements](#acknowledgements)
 
-### Introduction
+### Résumé in LaTeX
 
 This repository contains a LaTeX template for creating a professional résumé. The template is fully customizable and can be easily adapted to fit your personal needs. It is designed to be clean and easy to read, with a focus on showcasing your skills and experiences.
 
