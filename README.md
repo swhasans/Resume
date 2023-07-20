@@ -1,6 +1,6 @@
 # Syed W. Hasan's Résumé
 
-**🔗 Live Preview PDF**: [Click Here!](https://github.com/swhasans/Resume/blob/8509205363de13875e1419ef83ea03887fd686e2/Syed%20W.%20Hasan%20-%20Software%20Engineer%20Resume.pdf)
+**🔗 Live Preview PDF**: [Click Here!](https://github.com/swhasans/Resume/blob/050e77f089333e84e8d54fe5959cd7879d1e3d11/Syed%20W.%20Hasan%20-%20Software%20Engineer%20Resume.pdf)
 
 ## Table of Contents
 
